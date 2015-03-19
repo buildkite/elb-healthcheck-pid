@@ -2,7 +2,7 @@
 
 A web server for use with Amazon ELB's Health Checker to monitor the status of a process on the host machine.
 
-### Usage
+## Usage
 
 ```bash
 $ elb-healthcheck-pid --help
@@ -20,16 +20,16 @@ $ elb-healthcheck-pid 1234
 
 You can then see the status of this PID by visiting: `http://0.0.0.0:4567/status`
 
-### Installation
+## Installation
 
 Downloading the latest release for your OS here: https://github.com/buildkite/elb-healthcheck-pid/releases
 
-### Licence
+## Licence
 
 ```
 The MIT License (MIT)
 
-Copyright (c) 2015 Buildkite
+Copyright (c) 2015 Buildkite Pty. Ltd.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
