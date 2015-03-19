@@ -20,6 +20,10 @@ $ elb-healthcheck-pid 1234
 
 You can then see the status of this PID by visiting: `http://0.0.0.0:4567/status`
 
+### Installation
+
+Downloading the latest release for your OS here: https://github.com/buildkite/elb-healthcheck-pid/releases
+
 ### Licence
 
 ```
