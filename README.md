@@ -1,6 +1,6 @@
-# elb-healthcheck-pid
+# ELB PID Checker
 
-A web server for use with ELB's health checker to monitor the status of a PID
+A web server for use with Amazon ELB's Health Checker to monitor the status of a process on the host machine.
 
 ### Usage
 
